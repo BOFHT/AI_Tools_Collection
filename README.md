@@ -1,2 +1,2 @@
 # AI_Tools_Collection
-网页地址：startling-lolly-033583.netlify.app
+[AI工具收集网页地址startling-lolly-033583.netlify.app](https://startling-lolly-033583.netlify.app/)
